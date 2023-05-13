@@ -1,0 +1,12 @@
+.pokemon {
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+}
+.pokemon img {
+    display: block;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline wavy blue;
+}
